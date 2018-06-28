@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 JUN 2018 18:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 JUN 2018 18:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -253,31 +253,32 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
  [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 406--432
-
- []
-
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 445--453
+Underfull \hbox (badness 10000) in paragraph at lines 412--442
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 468--479
+Underfull \hbox (badness 10000) in paragraph at lines 455--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--489
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 507--508
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 551.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 561.
 [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 551.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 551.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 551.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 551.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 561.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 561.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 561.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 561.
  ) 
 Here is how much of TeX's memory you used:
  4872 strings out of 492649
@@ -286,7 +287,7 @@ Here is how much of TeX's memory you used:
  8748 multiletter control sequences out of 15000+600000
  10581 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,21p,564b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,21p,564b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
@@ -298,7 +299,7 @@ ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
 exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2018/te
 xmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018/texmf-dis
 t/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on blumberg_CV.pdf (8 pages, 151865 bytes).
+Output written on blumberg_CV.pdf (8 pages, 151884 bytes).
 PDF statistics:
  158 PDF objects out of 1000 (max. 8388607)
  136 compressed objects within 2 object streams
