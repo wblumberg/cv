@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 JUN 2018 18:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 JUN 2018 18:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -298,7 +298,7 @@ ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
 exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2018/te
 xmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018/texmf-dis
 t/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on blumberg_CV.pdf (8 pages, 152203 bytes).
+Output written on blumberg_CV.pdf (8 pages, 152196 bytes).
 PDF statistics:
  158 PDF objects out of 1000 (max. 8388607)
  136 compressed objects within 2 object streams
